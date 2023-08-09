@@ -1,0 +1,13 @@
+{
+    "base_path": "Data/women",
+    "base_original": "Data/women",
+    "features": "all_graph_features/all_graph_minority_all_14.json",
+    "post_id": "Data/post_id_divisions.json",
+    "voting": "minority",
+    "filter": "all",
+    "method": "all_graph",
+    "output": "explanation_dict_all_graph_minority_all_keep.json",
+    "delete_negative": false,
+    "test": false,
+    "target": "Women"
+}

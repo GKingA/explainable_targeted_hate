@@ -1,0 +1,13 @@
+{
+    "base_path": "Data/women",
+    "base_original": "Data/women",
+    "features": "rationale_bow_features/rationale_bow_minority_all_5.json",
+    "post_id": "Data/post_id_divisions.json",
+    "voting": "minority",
+    "filter": "all",
+    "method": "rationale_bow",
+    "output": "explanation_dict_rationale_bow_minority_all.json",
+    "delete_negative": true,
+    "test": false,
+    "target": "Women"
+}

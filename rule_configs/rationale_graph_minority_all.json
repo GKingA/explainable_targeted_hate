@@ -1,0 +1,13 @@
+{
+    "base_path": "Data/women",
+    "base_original": "Data/women",
+    "features": "rationale_graph_features/rationale_graph_minority_all_14.json",
+    "post_id": "Data/post_id_divisions.json",
+    "voting": "minority",
+    "filter": "all",
+    "method": "rationale_graph",
+    "output": "explanation_dict_rationale_graph_minority_all.json",
+    "delete_negative": true,
+    "test": false,
+    "target": "Women"
+}

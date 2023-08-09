@@ -1,0 +1,13 @@
+{
+    "base_path": "Data/women",
+    "base_original": "Data/women",
+    "features": "all_bow_features/all_bow_minority_all_2.json",
+    "post_id": "Data/post_id_divisions.json",
+    "voting": "minority",
+    "filter": "all",
+    "method": "all_bow",
+    "output": "explanation_dict_all_bow_minority_all.json",
+    "delete_negative": true,
+    "test": false,
+    "target": "Women"
+}
