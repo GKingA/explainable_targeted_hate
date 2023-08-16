@@ -10,10 +10,10 @@ for FILE in ../explanations_dicts/*;
         else
             voting="minority";
         fi
-        if [[ "$FILE" =~ "all" ]]; then
-            filtering="all";
-        else
+        if [[ "$FILE" =~ "pure" ]]; then
             filtering="pure";
+        else
+            filtering="all";
         fi
         model="$voting"_"$filtering";
         if [[ "$FILE" =~ "bert" ]]; then
